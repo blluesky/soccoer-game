@@ -1,0 +1,21 @@
+{
+  "short_name": "AI 축구",
+  "name": "창의미래교육 축구대회",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3246/3246264.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3246/3246264.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#111827",
+  "background_color": "#111827",
+  "orientation": "landscape"
+}
